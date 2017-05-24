@@ -1,0 +1,27 @@
+img.main {
+  float: left;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
+
+img.second {
+  float: right;
+}
+
+.sidebar {
+  float: right;
+  background-color: yellow;
+  width: 30%
+}
+
+p {
+  font-size: 30px;
+  font-style: italic;
+}
+
+p.first {
+  font-style: normal;
+}
